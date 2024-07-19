@@ -1,7 +1,7 @@
 ![logo](https://github.com/AbhishekPurbey02/AbhishekPurbey02/blob/main/GitBanner.png)
 ## A Passionate Software Engineer
 
-Hi, I'm Abhishek Purbey, a passionate software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build. I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+Hi, I'm Abhishek Purbey, a dedicated data analyst from India. My passion for data lies in uncovering insights and turning raw data into actionable intelligence with compelling visualizations. I take great care in the accuracy, interpretation, and presentation of the data I analyze. I am also an open-source enthusiast and contributor. I have learned a great deal from the open-source community, and I cherish the collaboration and knowledge sharing that happens through open-source initiatives.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-purbey-779248232/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]( [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)])
