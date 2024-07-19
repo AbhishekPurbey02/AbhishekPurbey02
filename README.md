@@ -7,7 +7,7 @@ Hi, I'm Abhishek Purbey, a dedicated data analyst from India. My passion for dat
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-purbey-779248232/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]( [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)])
 
 # 💻Tech Stack
-![MS Excel](<img src="https://i.imgur.com/CREle3r.jpeg" alt="MS Excel" width="50" height="50">)
+![MS Excel]<img src="https://i.imgur.com/CREle3r.jpeg" alt="MS Excel" width="50" height="50">
 <br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 <br>
