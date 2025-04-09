@@ -1,7 +1,9 @@
 ![logo](https://github.com/AbhishekPurbey02/AbhishekPurbey02/blob/main/GitBanner.png)
-## A Passionate Data Analyst
+## Versatile Developer & Data Enthusiast
 
-Hi, I'm Abhishek Purbey, a dedicated data analyst from India. My passion for data lies in uncovering insights and turning raw data into actionable intelligence with compelling visualizations. I take great care in the accuracy, interpretation, and presentation of the data I analyze. I am also an open-source enthusiast and contributor. I have learned a great deal from the open-source community, and I cherish the collaboration and knowledge sharing that happens through open-source initiatives.
+Hi, I'm Abhishek Purbey — a passionate developer from India with hands-on experience in Python, Java, React, and Data Analytics. I enjoy building dynamic web applications and exploring the power of data through analysis and visualization. Whether it’s developing full-stack solutions or uncovering insights from complex datasets, I love solving problems with code. I'm also an open-source contributor who values collaboration, clean design, and continuous learning.
+
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-purbey-779248232/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)]( [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)])
