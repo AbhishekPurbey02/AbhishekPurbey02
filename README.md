@@ -1,7 +1,10 @@
 ![logo](https://github.com/AbhishekPurbey02/AbhishekPurbey02/blob/main/GitBanner.png)
 ## Versatile Developer & Data Enthusiast
 
-Hi, I'm Abhishek Purbey — a passionate developer from India with hands-on experience in Python, Java, React, and Data Analytics. I enjoy building dynamic web applications and exploring the power of data through analysis and visualization. Whether it’s developing full-stack solutions or uncovering insights from complex datasets, I love solving problems with code. I'm also an open-source contributor who values collaboration, clean design, and continuous learning.
+Hello, I’m Abhishek Kumar Purbey, a passionate Flutter Developer and Data Enthusiast dedicated to building impactful digital solutions and transforming raw data into meaningful insights.
+With a B.E. in Information Science and Engineering, I bridge the gap between intuitive mobile app development and data-driven decision-making. Over the past year, I’ve gained hands-on experience in developing cross-platform Flutter applications, UI/UX design, and RESTful API integration, while also working with Power BI, SQL, and Python to analyze, visualize, and model complex datasets using machine learning techniques.
+As a developer, I love crafting smooth, responsive, and user-focused mobile experiences. As a data enthusiast, I thrive on uncovering hidden patterns and insights that empower smarter business decisions.
+I take pride in writing clean, maintainable code, delivering projects ahead of schedule, and collaborating effectively across teams to create measurable impact. Beyond work, I’m an open-source contributor and lifelong learner who believes in sharing knowledge and growing through community-driven innovation.
 
 
 
