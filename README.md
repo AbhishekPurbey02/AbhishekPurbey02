@@ -27,7 +27,7 @@ I take pride in writing clean, maintainable code, delivering projects ahead of s
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 <br>
 # 📊GitHub Stats :
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekpurbey02&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekpurbey02" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekpurbey02&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekpurbey02" /> </p> -->
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekpurbey02&show_icons=true&locale=en" alt="abhishekpurbey02" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekpurbey02&" alt="abhishekpurbey02" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekpurbey02&show_icons=true&locale=en&layout=compact" alt="abhishekpurbey02" /></p>
