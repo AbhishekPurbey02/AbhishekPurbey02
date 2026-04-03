@@ -1,10 +1,20 @@
 ![logo](https://github.com/AbhishekPurbey02/AbhishekPurbey02/blob/main/GitBanner.png)
-## Versatile Developer & Data Enthusiast
+## AI-Focused Software Engineer | Flutter Developer | Machine Learning Practitioner
 
-Hello, I’m Abhishek Kumar Purbey, a passionate Flutter Developer and Data Enthusiast dedicated to building impactful digital solutions and transforming raw data into meaningful insights.
-With a B.E. in Information Science and Engineering, I bridge the gap between intuitive mobile app development and data-driven decision-making. Over the past year, I’ve gained hands-on experience in developing cross-platform Flutter applications, UI/UX design, and RESTful API integration, while also working with Power BI, SQL, and Python to analyze, visualize, and model complex datasets using machine learning techniques.
-As a developer, I love crafting smooth, responsive, and user-focused mobile experiences. As a data enthusiast, I thrive on uncovering hidden patterns and insights that empower smarter business decisions.
-I take pride in writing clean, maintainable code, delivering projects ahead of schedule, and collaborating effectively across teams to create measurable impact. Beyond work, I’m an open-source contributor and lifelong learner who believes in sharing knowledge and growing through community-driven innovation.
+Hi, I’m Abhishek Kumar Purbey — a software engineer transitioning into the world of Artificial Intelligence, with a strong foundation in Flutter development and real-world experience building scalable, AI-integrated applications.
+Currently, I’m deeply focused on mastering Machine Learning and AI from the ground up, having completed end-to-end concepts from supervised learning to NLP, and actively applying them through hands-on projects and experimentation.
+With experience working on production-level applications (100K+ users), I’ve built and integrated intelligent systems such as recommendation engines, conversational AI features, and data-driven modules. My work combines practical software engineering with intelligent system design, allowing me to not just build apps — but make them smart.
+I specialize in:
+Machine Learning (Classification, Clustering, NLP, Model Evaluation)
+Data Analysis (Python, SQL, Power BI)
+Flutter Development (Cross-platform apps with real-world deployment)
+AI Integration (Recommendation systems, chat-based AI, data-driven features)
+
+What sets me apart is my approach:
+I don’t just learn algorithms — I understand why they exist, when to use them, and how to apply them in real-world systems.
+Currently, I’m building repositories that break down ML algorithms from scratch, compare model performance, and demonstrate practical use cases — with the goal of becoming a strong AI Engineer.
+
+I believe in continuous learning, building in public, and turning complex concepts into simple, real-world solutions
 
 
 
