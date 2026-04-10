@@ -31,7 +31,7 @@ I believe in continuous learning, building in public, and turning complex concep
 
 ### 📱 Application Development
 * **Mobile:** Flutter & Dart (State Management with BLOC)
-* **Languages:** Java, C++, HTML5
+* **Languages:** Dart, Java, C++, C, HTML5
 * **Backend:** Firebase, REST API Integration
 * **Tools:** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 <br>
