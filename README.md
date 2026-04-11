@@ -23,7 +23,7 @@ I believe in continuous learning, building in public, and turning complex concep
 
 ## 💻 Tech Stack
 
-### 🤖 Artificial Intelligence & Data Science
+### 🤖 Artificial Intelligence & Machine Learning
 * **Machine Learning:** Supervised (Regression, Classification) & Unsupervised (Clustering, Association Rule Learning)
 * **Specializations:** Reinforcement Learning (UCB, Thompson Sampling) & Deep Learning 
 * **Natural Language Processing:** Text Preprocessing, Naive Bayes, Sentiment Analysis
