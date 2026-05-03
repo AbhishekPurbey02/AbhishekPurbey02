@@ -1,5 +1,5 @@
 ![logo](https://github.com/AbhishekPurbey02/AbhishekPurbey02/blob/main/GitBanner.png)
-## AI-Focused Software Engineer | Flutter Developer | Machine Learning Practitioner
+## AI-Focused Software Engineer | Flutter Developer | Machine Learning | AI Engineering
 
 Hi, I’m Abhishek Kumar Purbey — a software engineer transitioning into the world of Artificial Intelligence, with a strong foundation in Flutter development and real-world experience building scalable, AI-integrated applications.
 Currently, I’m deeply focused on mastering Machine Learning and AI from the ground up, having completed end-to-end concepts from supervised learning to NLP, and actively applying them through hands-on projects and experimentation.
