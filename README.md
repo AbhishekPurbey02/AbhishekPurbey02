@@ -3,7 +3,7 @@
 
 Hi, I’m Abhishek Kumar Purbey — a software engineer transitioning into the world of Artificial Intelligence, with a strong foundation in Flutter development and real-world experience building scalable, AI-integrated applications.
 Currently, I’m deeply focused on mastering Machine Learning and AI from the ground up, having completed end-to-end concepts from supervised learning to NLP and actively applying them through hands-on projects and experimentation.
-With experience working on production-level applications (100K+ users), I’ve built and integrated intelligent systems such as recommendation engines, conversational AI features, and data-driven modules. My work combines practical software engineering with intelligent system design, allowing me to not just build apps — but make them smart.
+With experience working on production-level applications (100K+ users), I’ve built and integrated intelligent systems such as recommendation engines, conversational AI features, and data-driven modules. My work combines practical software engineering with intelligent system design, allowing me to not just build apps - but make them smart.
 I specialize in:
 Machine Learning (Classification, Clustering, NLP, Model Evaluation)
 Data Analysis (Python, SQL, Power BI)
@@ -11,7 +11,7 @@ Flutter Development (Cross-platform apps with real-world deployment)
 AI Integration (Recommendation systems, chat-based AI, data-driven features)
 
 What sets me apart is my approach:
-I don’t just learn algorithms — I understand why they exist, when to use them, and how to apply them in real-world systems.
+I don’t just learn algorithms - I understand why they exist, when to use them, and how to apply them in real-world systems.
 Currently, I’m building repositories that break down ML algorithms from scratch, compare model performance, and demonstrate practical use cases — with the goal of becoming a strong AI Engineer.
 
 I believe in continuous learning, building in public, and turning complex concepts into simple, real-world solutions
