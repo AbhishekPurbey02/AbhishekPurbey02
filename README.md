@@ -109,6 +109,6 @@ I’m particularly interested in building AI systems that are not only accurate,
 
 ---
 
-> Building, researching, and learning — one intelligent system at a time.
+Building, researching, and learning - one intelligent system at a time.
 
 
