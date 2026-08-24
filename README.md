@@ -38,7 +38,7 @@ End-to-end machine learning system for detecting fraudulent credit card transact
 
 AI-powered study assistant for intelligent document understanding.
 
-**Tech:** Python · FastAPI · RAG · LLMs · Embeddings · Vector Search · Flutter
+**Tech:** Python · FastAPI · RAG · LLMs · Embeddings · Vector Search · vector databases . Flutter
 
 * PDF/document understanding
 * Retrieval-Augmented Generation
@@ -61,15 +61,18 @@ A recommendation engine exploring multiple recommendation approaches.
 
 * Applied Machine Learning
 * Generative AI
+* LangChain
 * Retrieval-Augmented Generation (RAG)
 * Large Language Models
+* vector DBs
 * Anomaly & Fraud Detection
 * Recommendation Systems
 * Natural Language Processing
+* Deep Learning
 * AI Engineering
 * Machine Learning Research
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Machine Learning & AI
 
@@ -81,15 +84,15 @@ Flask · FastAPI · REST APIs · PostgreSQL · SQL · Docker
 
 ### Application Development
 
-Flutter · Dart · Firebase
+Flutter · Dart · Firebase · Bloc(State Management)
 
 ### Data & Analytics
 
-Power BI · Excel · SQL
+Power BI · Advanced Excel · SQL
 
 ### Tools
 
-Git · GitHub · Jupyter · VS Code
+Git · GitHub · Jupyter · VS Code . Android Studio
 
 ## Current Focus
 
@@ -99,10 +102,10 @@ I'm currently focused on building deeper expertise in:
 
 I’m particularly interested in building AI systems that are not only accurate, but also **deployable, explainable, and useful in real-world applications**.
 
-## 🤝 Let's Connect
+## Let's Connect
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/abhishek-purbey-779248232/)
-* 🐙 [GitHub](https://github.com/AbhishekPurbey02)
+* [LinkedIn](https://www.linkedin.com/in/abhishek-purbey-779248232/)
+* [GitHub](https://github.com/AbhishekPurbey02)
 
 ---
 
