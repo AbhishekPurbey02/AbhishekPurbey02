@@ -50,7 +50,7 @@ AI-powered study assistant for intelligent document understanding.
 
 A recommendation engine exploring multiple recommendation approaches.
 
-**Tech:** Python · Scikit-learn · Machine Learning
+**Tech:** Python · Scikit-learn · Machine Learning . Streamlit
 
 * Popularity-based recommendation
 * Collaborative filtering
